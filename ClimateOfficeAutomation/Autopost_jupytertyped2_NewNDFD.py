@@ -21,7 +21,7 @@ clean, cleaner = os.path.split(prjPath)
 sd_fs_name = 'hdfd_update_WFL1'
 portal = 'http://www.arcgis.com'
 user = 'mshoop'
-password = 'mom2468392'
+password = '**********'
 
 shrOrg = True
 shrEveryone = True
