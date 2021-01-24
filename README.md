@@ -1,2 +1,2 @@
-# first_reposit
+# first_deposit
 This is my repository
